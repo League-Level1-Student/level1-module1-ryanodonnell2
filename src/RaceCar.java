@@ -23,6 +23,8 @@ public class RaceCar {
 	
 	public int getPositionInRace() {
 		return this.positionInRace;
+		
+		
 	}
 	
 	public String getBrand() {

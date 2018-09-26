@@ -8,7 +8,7 @@
 		// 2. become invisible
 		// 3. spy on Professor Snape
 		// 4. become visible again
-		// 5. cast a “stupefy” spell
+		// 5. cast a â€œstupefyâ€� spell
 
 
 public class HarryPotter {
@@ -34,6 +34,9 @@ System.out.println("casting spell: " + spell);
 
 	void spyOnSnape() {
 		System.out.println("Harry sees Professor Snape doing nefarious things.");
+		
+		
+		
 	}
 
 
